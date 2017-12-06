@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# version 4
+task.html
+styles/tasks.css
+styles/BungeeOutline-Regular.ttf
+scripts/jquery-3.1.0.js
+scripts/jquery-tmpl.js
+scripts/jquery-serialization.js
+scripts/tasks-controller.js
+scripts/date.js
+scripts/jquery.csv.js
+scripts/tasks-indexeddb.js
+scripts/tasks-webStorage.js
+scripts/tasks-csvparser.js
+FALLBACK:
+scripts/tasks-indexeddb.js scripts/tasks-indexeddb.js
+scripts/tasks-webStorage.js scripts/tasks-webStorage.js
+
+NETWORK:
+*
